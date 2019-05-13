@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications 
+[https://scholar.google.com.hk/citations?user=QAlcrFAAAAAJ&hl=zh-CN \[Google Scholar\]]
+- Arxiv Papers
+-- *Ruchao Fan*, Pan Zhou,Wei Chen, Jia Jia, and Gang Liu.\n
+An Online Attention-based Model for Speech Recognition.\n
+arXiv preprint arXiv:1811.05247, 2018.\n
+[https://arxiv.org/abs/1811.05247 \[Arxiv\]]
+
+- Conference Papers
+-- *Ruchao Fan* and Gang Liu.\n
+CNN-based Audio Front End Processing on Speech Recognition.\n
+2018 International Conference on Audio, Language and Image Processing (ICALIP). IEEE, 2018, pp. 349–354.\n
+[https://github.com/Diamondfan/CTC_pytorch \[Code\]]
+-- Gang Liu, Haobin Chen, and *Ruchao Fan*.\n
+Frequency Warping Based on Two Factor Weighted Fusion.\n
+2017 4th International Conference on Systems and Informatics (ICSAI). IEEE, 2017, pp. 1082–1086.\n
+-- Gang Liu, Boce Chu, and *Ruchao Fan*.\n
+Multi-parameter Frequency Warping Based on LDA.\n
+2017 13th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD). IEEE, 2017, pp. 2710–2714.\n
+-- Gang Liu, Boce Chu, and *Ruchao Fan*.\n
+An Improved Locality Preserving Projection for Feature Transform in Speech Recognition.\n
+2017 International Conference on Machine Learning and Cybernetics (ICMLC). IEEE, 2017, vol. 1, pp. 77–82.
+
