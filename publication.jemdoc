@@ -1,24 +1,32 @@
 # jemdoc: menu{MENU}{publication.html}
 = Publications 
-[https://scholar.google.com.hk/citations?user=QAlcrFAAAAAJ&hl=zh-CN \[Google Scholar\]]
+[https://scholar.google.com/citations?hl=en&authuser=1&user=-Jx0HyYAAAAJ \[Google Scholar\]]
 - Arxiv Papers
--- *Ruchao Fan*, Pan Zhou,Wei Chen, Jia Jia, and Gang Liu.\n
-An Online Attention-based Model for Speech Recognition.\n
-arXiv preprint arXiv:1811.05247, 2018.\n
-[https://arxiv.org/abs/1811.05247 \[Arxiv\]]
+-- Pan Zhou, *Ruchao Fan*, Wei Chen, and Jia Jia. \n
+[https://arxiv.org/abs/1911.00203 Improving Generalization of Transformer for Speech Recognition with Parallel Schedule Sampling and Relative Positional Embedding] \n
+arXiv preprint arXiv:1911.00203
 
-- Conference Papers
--- *Ruchao Fan* and Gang Liu.\n
-CNN-based Audio Front End Processing on Speech Recognition.\n
-2018 International Conference on Audio, Language and Image Processing (ICALIP). IEEE, 2018, pp. 349–354.\n
+- *2020*
+-- Vijay Ravi, *Ruchao Fan*, Amber Afshan, Huanhua Lu, and Abeer Alwan \n
+[https://arxiv.org/abs/2008.03615 Exploring the Use of an Unsupervised Autoregressive Model as a Shared Encoder for Text-Dependent Speaker Verification] \n
+in Proc. Interspeech 2020, 2020. \n
+- *2019*
+-- *Ruchao Fan*, Pan Zhou, Wei Chen, Jia Jia, and Gang Liu \n
+[https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2218.pdf An Online Attention-based Model for Speech Recognition] \n
+in Proc. Interspeech 2019, 2019, pp. 4390-4394. \n
+- *2018*
+-- *Ruchao Fan* and Gang Liu \n
+[https://ieeexplore.ieee.org/document/8455731 CNN-based Audio Front End Processing on Speech Recognition] \n
+in 2018 International Conference on Audio, Language and Image Processing (ICALIP). IEEE, 2018, pp. 349–354.\n
 [https://github.com/Diamondfan/CTC_pytorch \[Code\]]
--- Gang Liu, Haobin Chen, and *Ruchao Fan*.\n
-Frequency Warping Based on Two Factor Weighted Fusion.\n
-2017 4th International Conference on Systems and Informatics (ICSAI). IEEE, 2017, pp. 1082–1086.\n
--- Gang Liu, Boce Chu, and *Ruchao Fan*.\n
-Multi-parameter Frequency Warping Based on LDA.\n
-2017 13th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD). IEEE, 2017, pp. 2710–2714.\n
--- Gang Liu, Boce Chu, and *Ruchao Fan*.\n
+- *2017*
+-- Gang Liu, Haobin Chen, and *Ruchao Fan* \n
+Frequency Warping Based on Two Factor Weighted Fusion \n
+in 2017 4th International Conference on Systems and Informatics (ICSAI). IEEE, 2017, pp. 1082–1086.\n
+-- Gang Liu, Boce Chu, and *Ruchao Fan* \n
+Multi-parameter Frequency Warping Based on LDA \n
+in 2017 13th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD). IEEE, 2017, pp. 2710–2714.\n
+-- Gang Liu, Boce Chu, and *Ruchao Fan* \n
 An Improved Locality Preserving Projection for Feature Transform in Speech Recognition.\n
-2017 International Conference on Machine Learning and Cybernetics (ICMLC). IEEE, 2017, vol. 1, pp. 77–82.
+in 2017 International Conference on Machine Learning and Cybernetics (ICMLC). IEEE, 2017, vol. 1, pp. 77–82.
 
