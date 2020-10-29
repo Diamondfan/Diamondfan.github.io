@@ -5,6 +5,9 @@
 -- Pan Zhou, *Ruchao Fan*, Wei Chen, and Jia Jia. \n
 [https://arxiv.org/abs/1911.00203 Improving Generalization of Transformer for Speech Recognition with Parallel Schedule Sampling and Relative Positional Embedding] \n
 arXiv preprint arXiv:1911.00203
+-- *Ruchao Fan*, Wei Chu, Peng Chang, and Jing Xiao. \n
+[https://arxiv.org/abs/2010.14725 CASS-NAT: CTC Alignment-based Single Step Non-autoregressive Transformer for Speech Recognition] \n
+arXiv preprint arXiv:2010.14725
 
 - *2020*
 -- Vijay Ravi, *Ruchao Fan*, Amber Afshan, Huanhua Lu, and Abeer Alwan \n
