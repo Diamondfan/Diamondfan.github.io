@@ -2,20 +2,26 @@
 = Publications 
 [https://scholar.google.com/citations?hl=en&authuser=1&user=-Jx0HyYAAAAJ \[Google Scholar\]]
 - Arxiv Papers
--- Pan Zhou, *Ruchao Fan*, Wei Chen, and Jia Jia. \n
+-- Pan Zhou, *Ruchao Fan*, Wei Chen, and Jia Jia \n
 [https://arxiv.org/abs/1911.00203 Improving Generalization of Transformer for Speech Recognition with Parallel Schedule Sampling and Relative Positional Embedding] \n
-arXiv preprint arXiv:1911.00203
--- *Ruchao Fan*, Wei Chu, Peng Chang, and Jing Xiao. \n
+arXiv preprint arXiv:1911.00203. \n
+- *2021*
+-- *Ruchao Fan*, Amber Afshan, and Abeer Alwan \n
+[https://arxiv.org/abs/2102.06816 Bi-APC: Bidirectional Autoregressive Predictive Coding for Unsupervised Pre-training and Its Application to Children's ASR] \n
+to appear in ICASSP 2021. \n
+-- Gary Yeung, *Ruchao Fan*, and Abeer Alwan \n
+[https://arxiv.org/abs/2102.09106 Fundamental Frequency Feature Normalization and Data Augmentation for Child Speech Recognition] \n
+to appear in ICASSP 2021. \n
+-- *Ruchao Fan*, Wei Chu, Peng Chang, and Jing Xiao \n
 [https://arxiv.org/abs/2010.14725 CASS-NAT: CTC Alignment-based Single Step Non-autoregressive Transformer for Speech Recognition] \n
-arXiv preprint arXiv:2010.14725
-
+to appear in ICASSP 2021. \n
 - *2020*
 -- Vijay Ravi, *Ruchao Fan*, Amber Afshan, Huanhua Lu, and Abeer Alwan \n
-[https://arxiv.org/abs/2008.03615 Exploring the Use of an Unsupervised Autoregressive Model as a Shared Encoder for Text-Dependent Speaker Verification] \n
+[https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2957.html Exploring the Use of an Unsupervised Autoregressive Model as a Shared Encoder for Text-Dependent Speaker Verification] \n
 in Proc. Interspeech 2020, 2020. \n
 - *2019*
 -- *Ruchao Fan*, Pan Zhou, Wei Chen, Jia Jia, and Gang Liu \n
-[https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2218.pdf An Online Attention-based Model for Speech Recognition] \n
+[https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2218.html An Online Attention-based Model for Speech Recognition] \n
 in Proc. Interspeech 2019, 2019, pp. 4390-4394. \n
 - *2018*
 -- *Ruchao Fan* and Gang Liu \n
