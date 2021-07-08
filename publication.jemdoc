@@ -6,15 +6,23 @@
 [https://arxiv.org/abs/1911.00203 Improving Generalization of Transformer for Speech Recognition with Parallel Schedule Sampling and Relative Positional Embedding] \n
 arXiv preprint arXiv:1911.00203. \n
 - *2021*
--- *Ruchao Fan*, Amber Afshan, and Abeer Alwan \n
-[https://arxiv.org/abs/2102.06816 Bi-APC: Bidirectional Autoregressive Predictive Coding for Unsupervised Pre-training and Its Application to Children's ASR] \n
-to appear in ICASSP 2021. \n
--- Gary Yeung, *Ruchao Fan*, and Abeer Alwan \n
-[https://arxiv.org/abs/2102.09106 Fundamental Frequency Feature Normalization and Data Augmentation for Child Speech Recognition] \n
-to appear in ICASSP 2021. \n
+-- *Ruchao Fan*, Wei Chu, Peng Chang, Jing Xiao and Abeer Alwan \n
+[https://arxiv.org/abs/2106.09885 An Improved Single Step Non-autoregressive Transformer for Automatic Speech Recognition] \n
+To appear in Interspeech 2021. \n
+-- Jinhan Wang, Yunzheng Zhu, *Ruchao Fan*, Wei Chu and Abeer Alwan \n
+[https://arxiv.org/abs/2106.09963 Low Resource German ASR with Untranscribed Data Spoken by Non-native Children -- INTERSPEECH 2021 Shared Task SPAPL System] \n
+To appear in Interspeech 2021. \n
 -- *Ruchao Fan*, Wei Chu, Peng Chang, and Jing Xiao \n
 [https://arxiv.org/abs/2010.14725 CASS-NAT: CTC Alignment-based Single Step Non-autoregressive Transformer for Speech Recognition] \n
-to appear in ICASSP 2021. \n
+in ICASSP 2021, IEEE, pp. 5889–5893. \n
+[file/4525-cassnat-presentation-Ruchao.pdf \[Slides\]], [file/4525-cassnat-poster-Ruchao.pdf \[Poster\]]
+-- *Ruchao Fan*, Amber Afshan, and Abeer Alwan \n
+[https://arxiv.org/abs/2102.06816 Bi-APC: Bidirectional Autoregressive Predictive Coding for Unsupervised Pre-training and Its Application to Children's ASR] \n
+in ICASSP 2021, IEEE, , pp. 7023–7027. \n
+[file/4050-biapc-presentation-Ruchao.pdf \[Slides\]], [file/4050-biapc-poster-Ruchao.pdf \[Poster\]]
+-- Gary Yeung, *Ruchao Fan*, and Abeer Alwan \n
+[https://arxiv.org/abs/2102.09106 Fundamental Frequency Feature Normalization and Data Augmentation for Child Speech Recognition] \n
+in ICASSP 2021, IEEE, pp. 6993-6997. \n
 - *2020*
 -- Vijay Ravi, *Ruchao Fan*, Amber Afshan, Huanhua Lu, and Abeer Alwan \n
 [https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2957.html Exploring the Use of an Unsupervised Autoregressive Model as a Shared Encoder for Text-Dependent Speaker Verification] \n
