@@ -4,38 +4,47 @@
 ~~~
 {}{img_left}{file/rcfan.png}{alt text}{160px}{}
 Ruchao Fan \n
-PhD Student \n 
+PhD Candidate \n 
+Email: fanruchao [at] g [dot] ucla [dot] edu \n
 [https://www.ee.ucla.edu Department of Electrical and Computer Engineering] \n
 [http://www.ucla.edu University of California, Los Angeles] \n
 Advisor: [https://www.ee.ucla.edu/abeer-alwan Abeer Alwan] \n
 Lab: [http://www.seas.ucla.edu/spapl/index.html Speech Processing and Auditory Perception Laboratory] \n
-Contact: [frcdyx@gmail.com \[Email\]], [https://github.com/Diamondfan \[Github\]],
-[https://scholar.google.com/citations?hl=en&authuser=1&user=-Jx0HyYAAAAJ \[Google Scholar\]]
 ~~~
 
 == Bio 
-I am currently a second-year Ph.D. student in ECE at UCLA, advised by Prof. [https://www.ee.ucla.edu/abeer-alwan Abeer Alwan]. My research area is speech processing, and automatic speech recognition in particular. \n
-I received my Master's degree in Information and Communication Engineering from [https://english.bupt.edu.cn/ Beijing University of Posts and Telecommunications (BUPT)] in June 2019, advised by Prof. Gang Liu. I also got my Bachelor's degree in Communication Engineering from BUPT in June 2016.
+I am a third-year Ph.D. candidate in the Department of Electrical and Computer Engineering, UCLA. I am fortunate to work with [https://www.ee.ucla.edu/abeer-alwan Prof. Abeer Alwan] on problems of speech processing. 
+For my current work, I am focusing on children's speech recognition in a low-resource perspective and end-to-end speech recognition. Prior to that, I received my Master's and Bachelor's degree
+from Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2016, respectively.
 
 == News 
-- \[06-02-2021\] Two papers are accepted to *[https://www.interspeech2021.org/ Interspeech 2021]*!
-- \[01-29-2021\] Three papers are accepted to *[https://2021.ieeeicassp.org/ ICASSP 2021]*!
-- \[01-25-2021\] I will be a summer intern @Microsoft, working with [https://www.microsoft.com/en-us/research/people/jinyli/ Dr. Jinyu Li].
-- \[09-18-2020\] My summer intern @PAII ends today. I was working with [https://scholar.google.com/citations?hl=en&authuser=1&user=IqK3BGYAAAAJ Dr. Wei Chu] and [https://scholar.google.com/citations?hl=en&authuser=1&user=feoBnmkAAAAJ Dr. Peng Chang].
-- \[07-25-2020\] One paper is accepted to *[http://www.interspeech2020.org/ Interspeech 2020]*.
-- \[09-23-2019\] I am enrolled at UCLA ECE department.
-- \[06-30-2019\] I obtain my master's degree from *Beijing University of Posts and Telecommunications*.
-- \[06-17-2019\] Paper *An Online Attention-based Model for Speech Recognition* is accepted by *Interspeech 2019*. 
-- \[03-15-2019\] I obtain a Ph.D. offer from the University of California, Los Angeles!
+- \[Dec 2021\] I passed my Oral Qualifying Exam and became a Ph.D. Candiate.
+- \[Dec 2021\] Our journal paper [https://www.sciencedirect.com/science/article/pii/S0167639321000881 Fundamental frequency feature warping for frequency normalization and data augmentation in child automatic speech recognition] has been published on Speech Communication.
+- \[Jun 2021\] I will be a summer intern @Microsoft, working with [https://scholar.google.com/citations?user=ljFX6R0AAAAJ&hl=en Dr. Guoli Ye] and [https://www.microsoft.com/en-us/research/people/jinyli/ Dr. Jinyu Li].
+- \[Jun 2021\] Two papers have been accepted by Interspeech 2021!
+    -- [https://arxiv.org/abs/2106.09885 An Improved Single Step Non-autoregressive Transformer for Automatic Speech Recognition]
+    -- [https://arxiv.org/abs/2106.09963 Low Resource German ASR with Untranscribed Data Spoken by Non-native Children -- INTERSPEECH 2021 Shared Task SPAPL System]
+- \[Jan 2021\] Three papers have been accepted by ICASSP 2021!
+    -- [https://arxiv.org/abs/2010.14725 CASS-NAT: CTC Alignment-based Single Step Non-autoregressive Transformer for Speech Recognition] 
+    -- [https://arxiv.org/abs/2102.06816 Bi-APC: Bidirectional Autoregressive Predictive Coding for Unsupervised Pre-training and Its Application to Children's ASR]
+    -- [https://arxiv.org/abs/2102.09106 Fundamental Frequency Feature Normalization and Data Augmentation for Child Speech Recognition]
+- \[Sep 2020\] I had a fruitful summer @PAII, working with [https://scholar.google.com/citations?hl=en&authuser=1&user=IqK3BGYAAAAJ Dr. Wei Chu] and [https://scholar.google.com/citations?hl=en&authuser=1&user=feoBnmkAAAAJ Dr. Peng Chang].
+- \[Jul 2020\] Our challenge paper [https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2957.html Exploring the Use of an Unsupervised Autoregressive Model as a Shared Encoder for Text-Dependent Speaker Verification] has been accepted by Interspeech 2020.
+- \[Sep 2019\] I started my Ph.D. at UCLA.
+- \[Jun 2019\] I got my Master's degree in Beijing University of Posts and Telecommunications.
+- \[Jun 2019\] Our Paper [https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2218.html An Online Attention-based Model for Speech Recognition] has been accepted by Interspeech 2019. 
+
+
+
+== Peer Review
+- Interspeech (2021)
+- ICASSP (2022)
+- IEEE Signal Processing Letter
+- IEEE International Conference on Multimedia and Expo, ICME (2021)
+- Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, APSIPA ASC (2020, 2021)
 
 == Education 
-- Ph.D. student, Department of Electrical and Computer Engineering, University of California, Los Angeles, Los Angeles, CA, U.S.A., Sept. 2019 - Jun. 2024(expected)
-- M.S., School of Information and Communication Engineering, Beijing University of Posts and Telecommunications, Beijing, China, Sept. 2016 - Jun. 2019
-- B.E., School of Information and Communication Engineering, Beijing University of Posts and Telecommunications, Beijing, China, Sept. 2012 - Jun. 2016
-
-== Conference Review
-- Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, APSIPA ASC (2020)
-- IEEE International Conference on Multimedia and Expo, ICME (2021)
-- Interspeech (2021)
-
+- Ph.D. University of California, Los Angeles, Los Angeles, CA, U.S.A., Sept. 2019 - Jun. 2024(expected)
+- M.S., Beijing University of Posts and Telecommunications, Beijing, China, Sept. 2016 - Jun. 2019
+- B.E., Beijing University of Posts and Telecommunications, Beijing, China, Sept. 2012 - Jun. 2016
 

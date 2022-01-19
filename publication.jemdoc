@@ -2,48 +2,53 @@
 = Publications 
 [https://scholar.google.com/citations?hl=en&authuser=1&user=-Jx0HyYAAAAJ \[Google Scholar\]]
 - Arxiv Papers
--- Pan Zhou, *Ruchao Fan*, Wei Chen, and Jia Jia \n
-[https://arxiv.org/abs/1911.00203 Improving Generalization of Transformer for Speech Recognition with Parallel Schedule Sampling and Relative Positional Embedding] \n
-arXiv preprint arXiv:1911.00203. \n
+-- *[https://arxiv.org/abs/1911.00203 Improving Generalization of Transformer for Speech Recognition with Parallel Schedule Sampling and Relative Positional Embedding]* \n
+Pan Zhou, *Ruchao Fan*, Wei Chen, and Jia Jia \n
+in arXiv preprint arXiv:1911.00203. \n
+
 - *2021*
--- *Ruchao Fan*, Wei Chu, Peng Chang, Jing Xiao and Abeer Alwan \n
-[https://arxiv.org/abs/2106.09885 An Improved Single Step Non-autoregressive Transformer for Automatic Speech Recognition] \n
-To appear in Interspeech 2021. \n
--- Jinhan Wang, Yunzheng Zhu, *Ruchao Fan*, Wei Chu and Abeer Alwan \n
-[https://arxiv.org/abs/2106.09963 Low Resource German ASR with Untranscribed Data Spoken by Non-native Children -- INTERSPEECH 2021 Shared Task SPAPL System] \n
-To appear in Interspeech 2021. \n
--- *Ruchao Fan*, Wei Chu, Peng Chang, and Jing Xiao \n
-[https://arxiv.org/abs/2010.14725 CASS-NAT: CTC Alignment-based Single Step Non-autoregressive Transformer for Speech Recognition] \n
+-- *[https://www.sciencedirect.com/science/article/pii/S0167639321000881 Fundamental frequency feature warping for frequency normalization and data augmentation in child automatic speech recognition]* \n
+Gary Yeung, *Ruchao Fan*, and Abeer Alwan \n
+in Speech Communication 2021. \n
+-- *[https://arxiv.org/abs/2106.09885 An Improved Single Step Non-autoregressive Transformer for Automatic Speech Recognition]* \n
+*Ruchao Fan*, Wei Chu, Peng Chang, Jing Xiao and Abeer Alwan \n
+in Interspeech 2021, pp. 3715-3719. \n
+-- *[https://arxiv.org/abs/2106.09963 Low Resource German ASR with Untranscribed Data Spoken by Non-native Children -- INTERSPEECH 2021 Shared Task SPAPL System]* \n
+Jinhan Wang, Yunzheng Zhu, *Ruchao Fan*, Wei Chu and Abeer Alwan \n
+in Interspeech 2021, pp. 1279-1283. \n
+-- *[https://arxiv.org/abs/2010.14725 CASS-NAT: CTC Alignment-based Single Step Non-autoregressive Transformer for Speech Recognition]* [file/4525-cassnat-presentation-Ruchao.pdf \[Slides\]], [file/4525-cassnat-poster-Ruchao.pdf \[Poster\]]\n
+*Ruchao Fan*, Wei Chu, Peng Chang, and Jing Xiao \n
 in ICASSP 2021, IEEE, pp. 5889–5893. \n
-[file/4525-cassnat-presentation-Ruchao.pdf \[Slides\]], [file/4525-cassnat-poster-Ruchao.pdf \[Poster\]]
--- *Ruchao Fan*, Amber Afshan, and Abeer Alwan \n
-[https://arxiv.org/abs/2102.06816 Bi-APC: Bidirectional Autoregressive Predictive Coding for Unsupervised Pre-training and Its Application to Children's ASR] \n
+-- *[https://arxiv.org/abs/2102.06816 Bi-APC: Bidirectional Autoregressive Predictive Coding for Unsupervised Pre-training and Its Application to Children's ASR]* [file/4050-biapc-presentation-Ruchao.pdf \[Slides\]], [file/4050-biapc-poster-Ruchao.pdf \[Poster\]]\n
+*Ruchao Fan*, Amber Afshan, and Abeer Alwan \n
 in ICASSP 2021, IEEE, , pp. 7023–7027. \n
-[file/4050-biapc-presentation-Ruchao.pdf \[Slides\]], [file/4050-biapc-poster-Ruchao.pdf \[Poster\]]
--- Gary Yeung, *Ruchao Fan*, and Abeer Alwan \n
-[https://arxiv.org/abs/2102.09106 Fundamental Frequency Feature Normalization and Data Augmentation for Child Speech Recognition] \n
+-- *[https://arxiv.org/abs/2102.09106 Fundamental Frequency Feature Normalization and Data Augmentation for Child Speech Recognition]* \n
+Gary Yeung, *Ruchao Fan*, and Abeer Alwan \n
 in ICASSP 2021, IEEE, pp. 6993-6997. \n
+
 - *2020*
--- Vijay Ravi, *Ruchao Fan*, Amber Afshan, Huanhua Lu, and Abeer Alwan \n
-[https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2957.html Exploring the Use of an Unsupervised Autoregressive Model as a Shared Encoder for Text-Dependent Speaker Verification] \n
+-- *[https://www.isca-speech.org/archive/Interspeech_2020/abstracts/2957.html Exploring the Use of an Unsupervised Autoregressive Model as a Shared Encoder for Text-Dependent Speaker Verification]* \n
+Vijay Ravi, *Ruchao Fan*, Amber Afshan, Huanhua Lu, and Abeer Alwan \n
 in Proc. Interspeech 2020, 2020. \n
+
 - *2019*
--- *Ruchao Fan*, Pan Zhou, Wei Chen, Jia Jia, and Gang Liu \n
-[https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2218.html An Online Attention-based Model for Speech Recognition] \n
+-- *[https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2218.html An Online Attention-based Model for Speech Recognition]* \n
+*Ruchao Fan*, Pan Zhou, Wei Chen, Jia Jia, and Gang Liu \n
 in Proc. Interspeech 2019, 2019, pp. 4390-4394. \n
+
 - *2018*
--- *Ruchao Fan* and Gang Liu \n
-[https://ieeexplore.ieee.org/document/8455731 CNN-based Audio Front End Processing on Speech Recognition] \n
+-- *[https://ieeexplore.ieee.org/document/8455731 CNN-based Audio Front End Processing on Speech Recognition]* [https://github.com/Diamondfan/CTC_pytorch \[Code\]]\n
+*Ruchao Fan* and Gang Liu \n
 in 2018 International Conference on Audio, Language and Image Processing (ICALIP). IEEE, 2018, pp. 349–354.\n
-[https://github.com/Diamondfan/CTC_pytorch \[Code\]]
+
 - *2017*
--- Gang Liu, Haobin Chen, and *Ruchao Fan* \n
-Frequency Warping Based on Two Factor Weighted Fusion \n
+-- Frequency Warping Based on Two Factor Weighted Fusion \n
+Gang Liu, Haobin Chen, and *Ruchao Fan* \n
 in 2017 4th International Conference on Systems and Informatics (ICSAI). IEEE, 2017, pp. 1082–1086.\n
--- Gang Liu, Boce Chu, and *Ruchao Fan* \n
-Multi-parameter Frequency Warping Based on LDA \n
+-- Multi-parameter Frequency Warping Based on LDA \n
+Gang Liu, Boce Chu, and *Ruchao Fan* \n
 in 2017 13th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD). IEEE, 2017, pp. 2710–2714.\n
--- Gang Liu, Boce Chu, and *Ruchao Fan* \n
-An Improved Locality Preserving Projection for Feature Transform in Speech Recognition.\n
+-- An Improved Locality Preserving Projection for Feature Transform in Speech Recognition.\n
+Gang Liu, Boce Chu, and *Ruchao Fan* \n
 in 2017 International Conference on Machine Learning and Cybernetics (ICMLC). IEEE, 2017, vol. 1, pp. 77–82.
 
