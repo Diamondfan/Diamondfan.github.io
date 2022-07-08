@@ -6,6 +6,17 @@
 Pan Zhou, *Ruchao Fan*, Wei Chen, and Jia Jia \n
 in arXiv preprint arXiv:1911.00203. \n
 
+- *2022*
+-- *[https://arxiv.org/abs/2206.07931 DRAFT: A Novel Framework to Reduce Domain Shifting in Self-supervised Learning and Its Application to Children's ASR]* \n
+*Ruchao Fan*, and Abeer Alwan \n
+in Interspeech 2022. \n
+-- *[https://arxiv.org/abs/2202.12326 Towards Better Meta-Initialization with Task Augmentation for Kindergarten-aged Speech Recognition]* \n
+Yunzheng Zhu, *Ruchao Fan*, and Abeer Alwan \n
+in ICASSP 2022, IEEE. \n
+-- *[https://arxiv.org/abs/2202.09529 LPC Augment: An LPC-Based ASR Data Augmentation Algorithm for Low and Zero-Resource Children's Dialects]* \n
+Alexander Johnson, *Ruchao Fan*, Robin Morris, and Abeer Alwan \n
+in ICASSP 2022, IEEE. \n
+
 - *2021*
 -- *[https://www.sciencedirect.com/science/article/pii/S0167639321000881 Fundamental frequency feature warping for frequency normalization and data augmentation in child automatic speech recognition]* \n
 Gary Yeung, *Ruchao Fan*, and Abeer Alwan \n
@@ -21,7 +32,7 @@ in Interspeech 2021, pp. 1279-1283. \n
 in ICASSP 2021, IEEE, pp. 5889–5893. \n
 -- *[https://arxiv.org/abs/2102.06816 Bi-APC: Bidirectional Autoregressive Predictive Coding for Unsupervised Pre-training and Its Application to Children's ASR]* [file/4050-biapc-presentation-Ruchao.pdf \[Slides\]], [file/4050-biapc-poster-Ruchao.pdf \[Poster\]]\n
 *Ruchao Fan*, Amber Afshan, and Abeer Alwan \n
-in ICASSP 2021, IEEE, , pp. 7023–7027. \n
+in ICASSP 2021, IEEE, pp. 7023–7027. \n
 -- *[https://arxiv.org/abs/2102.09106 Fundamental Frequency Feature Normalization and Data Augmentation for Child Speech Recognition]* \n
 Gary Yeung, *Ruchao Fan*, and Abeer Alwan \n
 in ICASSP 2021, IEEE, pp. 6993-6997. \n

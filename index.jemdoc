@@ -13,14 +13,21 @@ Lab: [http://www.seas.ucla.edu/spapl/index.html Speech Processing and Auditory P
 ~~~
 
 == Bio 
-I am a third-year Ph.D. candidate in the Department of Electrical and Computer Engineering, UCLA. I am fortunate to work with [https://www.ee.ucla.edu/abeer-alwan Prof. Abeer Alwan] on problems of speech processing. 
+I am a Ph.D. candidate in the Department of Electrical and Computer Engineering, UCLA. I am fortunate to work with [https://www.ee.ucla.edu/abeer-alwan Prof. Abeer Alwan] on problems of speech processing. 
 For my current work, I am focusing on children's speech recognition in a low-resource perspective and end-to-end speech recognition. Prior to that, I received my Master's and Bachelor's degree
 from Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2016, respectively.
 
 == News 
+- \[Jun 2022\] I am on my second summer intern at Microsoft.
+- \[Jun 2022\] One paper has been accepted by Interspeech 2022!
+    -- [https://arxiv.org/abs/2206.07931 DRAFT: A Novel Framework to Reduce Domain Shifting in Self-supervised Learning and Its Application to Children's ASR]
+- \[Feb 2022\] I was awarded with [https://www.sciencehub.ucla.edu/2022-amazon-fellows/ UCLA-Amazon Fellowship]! 
+- \[Jun 2022\] Two co-authored papers have been accepted by ICASSP 2022!
+    -- [https://arxiv.org/abs/2202.12326 Towards Better Meta-Initialization with Task Augmentation for Kindergarten-aged Speech Recognition]
+    -- [https://arxiv.org/abs/2202.09529 LPC Augment: An LPC-Based ASR Data Augmentation Algorithm for Low and Zero-Resource Children's Dialects]
 - \[Dec 2021\] I passed my Oral Qualifying Exam and became a Ph.D. Candiate.
 - \[Dec 2021\] Our journal paper [https://www.sciencedirect.com/science/article/pii/S0167639321000881 Fundamental frequency feature warping for frequency normalization and data augmentation in child automatic speech recognition] has been published on Speech Communication.
-- \[Jun 2021\] I will be a summer intern @Microsoft, working with [https://scholar.google.com/citations?user=ljFX6R0AAAAJ&hl=en Dr. Guoli Ye] and [https://www.microsoft.com/en-us/research/people/jinyli/ Dr. Jinyu Li].
+- \[Jun 2021\] I started my summer intern @Microsoft, working with [https://scholar.google.com/citations?user=ljFX6R0AAAAJ&hl=en Dr. Guoli Ye] and [https://www.microsoft.com/en-us/research/people/jinyli/ Dr. Jinyu Li].
 - \[Jun 2021\] Two papers have been accepted by Interspeech 2021!
     -- [https://arxiv.org/abs/2106.09885 An Improved Single Step Non-autoregressive Transformer for Automatic Speech Recognition]
     -- [https://arxiv.org/abs/2106.09963 Low Resource German ASR with Untranscribed Data Spoken by Non-native Children -- INTERSPEECH 2021 Shared Task SPAPL System]
@@ -35,10 +42,8 @@ from Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2016,
 - \[Jun 2019\] Our Paper [https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2218.html An Online Attention-based Model for Speech Recognition] has been accepted by Interspeech 2019. 
 
 
-
 == Peer Review
-- Interspeech (2021)
-- ICASSP (2022)
+- Interspeech, ICASSP
 - IEEE Signal Processing Letter
 - IEEE International Conference on Multimedia and Expo, ICME (2021)
 - Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, APSIPA ASC (2020, 2021)
