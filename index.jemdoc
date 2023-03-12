@@ -13,12 +13,16 @@ Lab: [http://www.seas.ucla.edu/spapl/index.html Speech Processing and Auditory P
 ~~~
 
 == Bio 
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering, UCLA. I am fortunate to work with [https://www.ee.ucla.edu/abeer-alwan Prof. Abeer Alwan] on problems of speech processing. 
+I am a Ph.D. candidate in the Department of Electrical and Computer Engineering, UCLA. I am fortunate to work with [https://www.ee.ucla.edu/abeer-alwan Prof. Abeer Alwan] on problems of speech processing.
 For my current work, I am focusing on children's speech recognition in a low-resource perspective and end-to-end speech recognition. Prior to that, I received my Master's and Bachelor's degree
 from Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2016, respectively.
 
 == News 
-- \[Jun 2022\] I am on my second summer intern at Microsoft.
+- \[Feb 2023\] My summer intern work CTCBERT was accepted to ICASSP 2023!
+    -- [https://arxiv.org/abs/2210.08603 CTCBERT: Advancing Hidden-unit BERT with CTC Objectives]
+- \[Oct 2022\] My first Journal paper was accpeted to *JSTSP (IEEE Journal of Selected Topics in Signal Processing)*!
+    -- [https://ieeexplore.ieee.org/abstract/document/9864219 Towards Better Domain Adaptation for Self-Supervised Models: A Case Study of Child ASR]
+- \[Jun 2022\] A wonderful summer intern @Microsoft, working with Dr. Yiming Wang, Dr. Yashesh Gaur, Dr. Guoli Ye, and Dr. Jinyu Li. This is also my second intern at Microsoft.
 - \[Jun 2022\] One paper has been accepted by Interspeech 2022!
     -- [https://arxiv.org/abs/2206.07931 DRAFT: A Novel Framework to Reduce Domain Shifting in Self-supervised Learning and Its Application to Children's ASR]
 - \[Feb 2022\] I was awarded with [https://www.sciencehub.ucla.edu/2022-amazon-fellows/ UCLA-Amazon Fellowship]! 
@@ -43,13 +47,19 @@ from Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2016,
 
 
 == Peer Review
-- Interspeech, ICASSP
-- IEEE Signal Processing Letter
-- IEEE International Conference on Multimedia and Expo, ICME (2021)
-- Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, APSIPA ASC (2020, 2021)
+- Top speech conference and journal
+    -- Interspeech, ICASSP
+    -- IEEE Signal Processing Letter
+    -- IEEE Journal of Selected Topics in Signal Processing, JSTSP
+    -- IEEE Transactionon Audio, Speech, and Language Processing, TASLP
+- Others
+    -- ICLR 2023
+    -- IEEE International Conference on Multimedia and Expo, ICME (2021)
+    -- Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, APSIPA ASC (2020, 2021)
 
 == Education 
-- Ph.D. University of California, Los Angeles, Los Angeles, CA, U.S.A., Sept. 2019 - Jun. 2024(expected)
-- M.S., Beijing University of Posts and Telecommunications, Beijing, China, Sept. 2016 - Jun. 2019
-- B.E., Beijing University of Posts and Telecommunications, Beijing, China, Sept. 2012 - Jun. 2016
+- Ph.D. University of California, Los Angeles, Los Angeles, CA, U.S.A., Sept. 2019 - Jun. 2024 (expected)
+- M.S. & B.E., Beijing University of Posts and Telecommunications, Beijing, China
+    -- M.S., Sept. 2016 - Jun. 2019
+    -- B.E., Sept. 2012 - Jun. 2016
 
