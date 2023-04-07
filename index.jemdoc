@@ -13,11 +13,16 @@ Lab: [http://www.seas.ucla.edu/spapl/index.html Speech Processing and Auditory P
 ~~~
 
 == Bio 
-I am a Ph.D. candidate in the Department of Electrical and Computer Engineering, UCLA. I am fortunate to work with [https://www.ee.ucla.edu/abeer-alwan Prof. Abeer Alwan] on problems of speech processing.
-For my current work, I am focusing on children's speech recognition in a low-resource perspective and end-to-end speech recognition. Prior to that, I received my Master's and Bachelor's degree
+Ruchao Fan is currently a Ph.D. candidate in the Department of Electrical and Computer Engineering, UCLA. He works with [https://www.ee.ucla.edu/abeer-alwan Prof. Abeer Alwan] on problems of speech processing.
+His current work focuses on children's speech recognition in a low-resource perspective and end-to-end speech recognition. Prior to that, He received my Master's and Bachelor's degree
 from Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2016, respectively.
 
-== News 
+Ruchao has interned at Sogou Inc. (2018-2019), PAII Inc. (2020), and Microsoft Corporation (2021, 2022), doing research on speech recognition. He was awarded UCLA-Amazon Fellowship in 2022, and was honored as Amazon Fellow. 
+
+== News
+- \[Mar 2023\] My second Journal Paper was accepted to IEEE Transactions on Audio, Speech,and Language Processing (TASLP), and is available for early access:
+    --  [https://ieeexplore.ieee.org/abstract/document/10089490 A CTC Alignment-based Non-autoregressive Transformer for End-to-end Automatic Speech Recognition]
+    -- Codes for our CASS-NAT work are available at [https://github.com/Diamondfan/cassnat_asr CASS-NAT Code]
 - \[Feb 2023\] My summer intern work CTCBERT was accepted to ICASSP 2023!
     -- [https://arxiv.org/abs/2210.08603 CTCBERT: Advancing Hidden-unit BERT with CTC Objectives]
 - \[Oct 2022\] My first Journal paper was accpeted to *JSTSP (IEEE Journal of Selected Topics in Signal Processing)*!
