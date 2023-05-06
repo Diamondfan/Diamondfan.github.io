@@ -11,15 +11,15 @@ in arXiv preprint arXiv:1911.00203. \n
 *Ruchao Fan*, Wei Chu, Peng Chang, and Abeer Alwan \n
 in IEEE Transactions on Audio, Speech, and Language Processing (TASLP). \n 
 
--- *[https://arxiv.org/abs/2210.08603 CTCBERT: Advancing Hidden-unit BERT with CTC Objectives]* \n
+-- *[https://arxiv.org/abs/2210.08603 CTCBERT: Advancing Hidden-unit BERT with CTC Objectives]* [file/CTCBERT-poster.pdf \[Poster\]]\n
 *Ruchao Fan*, Yiming Wang, Yashesh Gaur, and Jinyu Li \n
 in ICASSP 2023, IEEE. \n
 
 - *2022*
--- *[https://ieeexplore.ieee.org/abstract/document/9864219 Towards Better Domain Adaptation for Self-Supervised Models: A Case Study of Child ASR]* \n
+-- *[https://ieeexplore.ieee.org/abstract/document/9864219 Towards Better Domain Adaptation for Self-Supervised Models: A Case Study of Child ASR]* [file/JSTSP-SSL-poster.pdf \[Poster\]]\n
 *Ruchao Fan*, Yunzheng Zhu, Jinhan Wang, and Abeer Alwan \n
 in Journal of Selected Topics in Signal Processing (JSTSP), IEEE. \n
--- *[https://arxiv.org/abs/2206.07931 DRAFT: A Novel Framework to Reduce Domain Shifting in Self-supervised Learning and Its Application to Children's ASR]* \n
+-- *[https://arxiv.org/abs/2206.07931 DRAFT: A Novel Framework to Reduce Domain Shifting in Self-supervised Learning and Its Application to Children's ASR]* [file/IS22-DRAFT-poster.pdf \[Poster\]]\n
 *Ruchao Fan*, and Abeer Alwan \n
 in Interspeech 2022. \n
 -- *[https://arxiv.org/abs/2202.12326 Towards Better Meta-Initialization with Task Augmentation for Kindergarten-aged Speech Recognition]* \n
@@ -33,7 +33,7 @@ in ICASSP 2022, IEEE. \n
 -- *[https://www.sciencedirect.com/science/article/pii/S0167639321000881 Fundamental frequency feature warping for frequency normalization and data augmentation in child automatic speech recognition]* \n
 Gary Yeung, *Ruchao Fan*, and Abeer Alwan \n
 in Speech Communication 2021. \n
--- *[https://arxiv.org/abs/2106.09885 An Improved Single Step Non-autoregressive Transformer for Automatic Speech Recognition]* \n
+-- *[https://arxiv.org/abs/2106.09885 An Improved Single Step Non-autoregressive Transformer for Automatic Speech Recognition]* [file/Improved-CASS-NAT-poster.pdf \[Poster\]] \n
 *Ruchao Fan*, Wei Chu, Peng Chang, Jing Xiao and Abeer Alwan \n
 in Interspeech 2021, pp. 3715-3719. \n
 -- *[https://arxiv.org/abs/2106.09963 Low Resource German ASR with Untranscribed Data Spoken by Non-native Children -- INTERSPEECH 2021 Shared Task SPAPL System]* \n

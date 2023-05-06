@@ -13,20 +13,24 @@ Lab: [http://www.seas.ucla.edu/spapl/index.html Speech Processing and Auditory P
 ~~~
 
 == Bio 
-Ruchao Fan is currently a Ph.D. candidate in the Department of Electrical and Computer Engineering, UCLA. He works with [https://www.ee.ucla.edu/abeer-alwan Prof. Abeer Alwan] on problems of speech processing.
-His current work focuses on children's speech recognition in a low-resource perspective and end-to-end speech recognition. Prior to that, He received my Master's and Bachelor's degree
+Ruchao Fan is currently a Ph.D. candidate in the Department of Electrical and Computer Engineering, at UCLA. He works with [https://www.ee.ucla.edu/abeer-alwan Prof. Abeer Alwan] on problems of speech processing.
+His current work focuses on children's speech recognition from a low-resource perspective and end-to-end speech recognition. Prior to that, He received his Master's and Bachelor's degree
 from Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2016, respectively.
 
 Ruchao has interned at Sogou Inc. (2018-2019), PAII Inc. (2020), and Microsoft Corporation (2021, 2022), doing research on speech recognition. He was awarded UCLA-Amazon Fellowship in 2022, and was honored as Amazon Fellow. 
 
 == News
-- \[Mar 2023\] My second Journal Paper was accepted to IEEE Transactions on Audio, Speech,and Language Processing (TASLP), and is available for early access:
+- \[Jun 2023\] I will be an intern at Amazon this Summer.
+- \[Mar 2023\] My second Journal Paper was accepted to *IEEE Transactions on Audio, Speech,and Language Processing (TASLP)*, and is available for early access:
     --  [https://ieeexplore.ieee.org/abstract/document/10089490 A CTC Alignment-based Non-autoregressive Transformer for End-to-end Automatic Speech Recognition]
     -- Codes for our CASS-NAT work are available at [https://github.com/Diamondfan/cassnat_asr CASS-NAT Code]
 - \[Feb 2023\] My summer intern work CTCBERT was accepted to ICASSP 2023!
     -- [https://arxiv.org/abs/2210.08603 CTCBERT: Advancing Hidden-unit BERT with CTC Objectives]
+    -- [file/CTCBERT-poster.pdf ICASSP Poster Presentation]
 - \[Oct 2022\] My first Journal paper was accpeted to *JSTSP (IEEE Journal of Selected Topics in Signal Processing)*!
     -- [https://ieeexplore.ieee.org/abstract/document/9864219 Towards Better Domain Adaptation for Self-Supervised Models: A Case Study of Child ASR]
+    -- [file/JSTSP-SSL-poster.pdf ICASSP Presentation of Journal Papers]
+    -- [https://github.com/Diamondfan/fairseq/blob/main/examples/hubert/run_ogi.sh Code for the DRAFT!]
 - \[Jun 2022\] A wonderful summer intern @Microsoft, working with Dr. Yiming Wang, Dr. Yashesh Gaur, Dr. Guoli Ye, and Dr. Jinyu Li. This is also my second intern at Microsoft.
 - \[Jun 2022\] One paper has been accepted by Interspeech 2022!
     -- [https://arxiv.org/abs/2206.07931 DRAFT: A Novel Framework to Reduce Domain Shifting in Self-supervised Learning and Its Application to Children's ASR]
@@ -58,6 +62,7 @@ Ruchao has interned at Sogou Inc. (2018-2019), PAII Inc. (2020), and Microsoft C
     -- IEEE Journal of Selected Topics in Signal Processing, JSTSP
     -- IEEE Transactionon Audio, Speech, and Language Processing, TASLP
 - Others
+    -- IEEE Transactions on Pattern Analysis and Machine Intelligence, TPAMI
     -- ICLR 2023
     -- IEEE International Conference on Multimedia and Expo, ICME (2021)
     -- Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, APSIPA ASC (2020, 2021)
