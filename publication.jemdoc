@@ -1,10 +1,29 @@
 # jemdoc: menu{MENU}{publication.html}
 = Publications 
 [https://scholar.google.com/citations?hl=en&authuser=1&user=-Jx0HyYAAAAJ \[Google Scholar\]]
+- Ph.D. Dissertation
+-- *[https://escholarship.org/uc/item/9281v84q Improving the Accuracy and Inference Efficiency for Low-resource Automatic Speech Recognition]* \n
+
 - Arxiv Papers
 -- *[https://arxiv.org/abs/1911.00203 Improving Generalization of Transformer for Speech Recognition with Parallel Schedule Sampling and Relative Positional Embedding]* \n
 Pan Zhou, *Ruchao Fan*, Wei Chen, and Jia Jia \n
 in arXiv preprint arXiv:1911.00203. \n
+
+-- *[https://arxiv.org/abs/2210.08665 Acoustic-aware Non-autoregressive Spell Correction with Mask Sample Decoding]* \n
+*Ruchao Fan*, Guoli Ye, Yashesh Gaur, Jinyu Li
+
+- *2024*
+-- *[https://arxiv.org/abs/2406.10507 Benchmarking Children's ASR with Supervised and Self-supervised Speech Foundation Models]* \n
+*Ruchao Fan*, Natarajan Balaji Shankar, and Abeer Alwan \n
+in Interspeech 2024. \n
+
+-- *[https://arxiv.org/abs/2406.10512 SOA: Reducing Domain Mismatch in SSL Pipeline by Speech Only Adaptation for Low Resource ASR]* \n
+Natarajan Balaji Shankar, *Ruchao Fan*, and Abeer Alwan \n
+in ICASSP 2024 SASB Workshop. \n
+
+-- *[https://arxiv.org/abs/2402.08898 UniEnc-CASSNAT: An Encoder-only Non-autoregressive ASR for Speech SSL Models]* \n
+*Ruchao Fan*, Natarajan Balaji Shankar, and Abeer Alwan \n
+in IEEE Singal Processing Letters (SPL). \n 
 
 - *2023*
 -- *[https://ieeexplore.ieee.org/abstract/document/10089490 A CTC Alignment-based Non-autoregressive Transformer for End-to-end Automatic Speech Recognition]* \n

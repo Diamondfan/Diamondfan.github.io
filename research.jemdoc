@@ -3,14 +3,16 @@
 
 == Research Interests
 - Speech Processing
-- Domain Adaptation
-- ASR for Children
-- Self-supervised and Unsupervised Learning
 - End-to-end Speech Recognition (Non-autoregressive transformer, CTC, Transducer)
-- Speaker Verification
+- Low-resource ASR
+- Self-supervised and Unsupervised Learning
+- Multi-modal Representation Learning
+- Speech LLM
 
 == Research Experience
-- Speech Processing and Auditory Perception Lab, UCLA, Sept. 2019 - Present
+- Microsoft Azure AI Speech Team, May 2024 - Present
+- Speech Processing and Auditory Perception Lab, UCLA, Sept. 2019 - Mar. 2024
+- Amazon Web Service, Lex Team, June 2023 - Sept. 2023
 - Microsoft Research Redmend, June 2022 - Sept. 2022
 - Microsoft Research Redmend, June 2021 - Sept. 2021
 - US Research Lab, PAII Inc., June 2020 - Sept. 2020
