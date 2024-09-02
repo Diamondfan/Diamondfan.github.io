@@ -13,7 +13,7 @@ Lab: [http://www.seas.ucla.edu/spapl/index.html Speech Processing and Auditory P
 ~~~
 
 == Bio 
-Ruchao Fan is currently a Senior Applied Scientist at Microsoft Azure Speech Team. He obtained his Ph.D. degree from the Department of Electrical and Computer Engineering, UCLA. His research interests are multi-model representation learning, speech and language modeling.
+Ruchao Fan is currently a Senior Applied Scientist at Microsoft Azure AI Speech Team. He obtained his Ph.D. degree from the Department of Electrical and Computer Engineering, UCLA. His research interests are multi-modal representation learning, speech and language modeling, and so on.
 
 During the Ph.D., Rucho Fan worked with [https://www.ee.ucla.edu/abeer-alwan Prof. Abeer Alwan] on problems of speech processing. His work focused on children's speech recognition from a low-resource perspective and end-to-end speech recognition. Prior to that, He received his Master's and Bachelor's degree
 from Beijing University of Posts and Telecommunications (BUPT) in 2019 and 2016, respectively.
@@ -23,7 +23,7 @@ Ruchao has interned at Sogou Inc. (2018-2019), PAII Inc. (2020), and Microsoft C
 == News
 - \[Jun 2024\] Check out our paper on bechmarking children's ASR with speech foundation models. The paper was accpeted to Interspeech 2024.
     -- [https://arxiv.org/abs/2406.10507 Benchmarking Children's ASR with Supervised and Self-supervised Speech Foundation Models]
-    -- [https://github.com/Diamondfan/SPAPL_KidsASR Code], models will be released soon!
+    -- [https://github.com/Diamondfan/SPAPL_KidsASR Code], models are released in [https://github.com/Diamondfan/SPAPL_KidsASR Huggingface]!
 - \[May 2024\] I joined Microsoft Azure Speech Team as an Applied Scientist.
 - \[Mar 2024\] I successfully defended my Ph.D. thesis and graduated from UCLA. 
     -- [https://escholarship.org/uc/item/9281v84q Improving the Accuracy and Inference Efficiency for Low-resource Automatic Speech Recognition]
@@ -73,7 +73,7 @@ Ruchao has interned at Sogou Inc. (2018-2019), PAII Inc. (2020), and Microsoft C
 - Others
     -- IEEE Transactions on Pattern Analysis and Machine Intelligence, TPAMI
     -- NeurIPS 2024
-    -- ICLR 2023
+    -- ICLR 2023, 2024
     -- IEEE International Conference on Multimedia and Expo, ICME (2021)
     -- Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, APSIPA ASC (2020, 2021)
 
