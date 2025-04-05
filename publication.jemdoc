@@ -4,15 +4,20 @@
 - Ph.D. Dissertation
 -- *[https://escholarship.org/uc/item/9281v84q Improving the Accuracy and Inference Efficiency for Low-resource Automatic Speech Recognition]* \n
 
-- Arxiv Papers
--- *[https://arxiv.org/abs/1911.00203 Improving Generalization of Transformer for Speech Recognition with Parallel Schedule Sampling and Relative Positional Embedding]* \n
-Pan Zhou, *Ruchao Fan*, Wei Chen, and Jia Jia \n
-in arXiv preprint arXiv:1911.00203. \n
-
--- *[https://arxiv.org/abs/2210.08665 Acoustic-aware Non-autoregressive Spell Correction with Mask Sample Decoding]* \n
-*Ruchao Fan*, Guoli Ye, Yashesh Gaur, Jinyu Li
+- *2025*
+-- *[https://arxiv.org/abs/2503.01743 Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs]* \n
+Microsoft et al. \n
+in arXiv preprint arXiv:2503.01743 \n
 
 - *2024*
+-- *[https://arxiv.org/abs/2412.01145 AlignFormer: Modality Matching Can Achieve Better Zero-shot Instruction-Following Speech-LLM]* \n
+*Ruchao Fan*, Bo Ren, Yuxuan Hu, Rui Zhao, Shujie Liu, and Jinyu Li \n
+in arXiv preprint arXiv:2412.01145 \n
+
+-- *[https://arxiv.org/abs/2410.05146 CTC-GMM: CTC guided modality matching for fast and accurate streaming speech translation]* \n
+Rui Zhao, Jinyu Li, *Ruchao Fan*, and Matt Post \n
+in SLT 2024. \n
+
 -- *[https://arxiv.org/abs/2406.10507 Benchmarking Children's ASR with Supervised and Self-supervised Speech Foundation Models]* \n
 *Ruchao Fan*, Natarajan Balaji Shankar, and Abeer Alwan \n
 in Interspeech 2024. \n
@@ -35,6 +40,9 @@ in IEEE Transactions on Audio, Speech, and Language Processing (TASLP). \n
 in ICASSP 2023, IEEE. \n
 
 - *2022*
+-- *[https://arxiv.org/abs/2210.08665 Acoustic-aware Non-autoregressive Spell Correction with Mask Sample Decoding]* \n
+*Ruchao Fan*, Guoli Ye, Yashesh Gaur, Jinyu Li \n
+in arXiv preprint arXiv:2210.08665 \n
 -- *[https://ieeexplore.ieee.org/abstract/document/9864219 Towards Better Domain Adaptation for Self-Supervised Models: A Case Study of Child ASR]* [file/JSTSP-SSL-poster.pdf \[Poster\]]\n
 *Ruchao Fan*, Yunzheng Zhu, Jinhan Wang, and Abeer Alwan \n
 in Journal of Selected Topics in Signal Processing (JSTSP), IEEE. \n
@@ -74,6 +82,10 @@ Vijay Ravi, *Ruchao Fan*, Amber Afshan, Huanhua Lu, and Abeer Alwan \n
 in Proc. Interspeech 2020, 2020. \n
 
 - *2019*
+-- *[https://arxiv.org/abs/1911.00203 Improving Generalization of Transformer for Speech Recognition with Parallel Schedule Sampling and Relative Positional Embedding]* \n
+Pan Zhou, *Ruchao Fan*, Wei Chen, and Jia Jia \n
+in arXiv preprint arXiv:1911.00203. \n
+
 -- *[https://www.isca-speech.org/archive/Interspeech_2019/abstracts/2218.html An Online Attention-based Model for Speech Recognition]* \n
 *Ruchao Fan*, Pan Zhou, Wei Chen, Jia Jia, and Gang Liu \n
 in Proc. Interspeech 2019, 2019, pp. 4390-4394. \n
